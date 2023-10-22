@@ -1,4 +1,5 @@
 - UNIX enthusiast
 - Free Software proponent
 - C lover
+- Smartphone hater
 - English, German, Spanish (not that well) and technically Latin
